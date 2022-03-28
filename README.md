@@ -1,6 +1,6 @@
 # Wiman-Translation
 This repo contains a translation from German to English of the work by Anders Wiman "Ueber die algebraischen Curven von den Geschlechtern p = 4, 5 und 6, welche eindeutige Transformationen in sich besitze", 1895. A .pdf and a .tex file are provided.
-This translation is intended to be evolving, and if any errors are detected in either the content or the translation please get in touch or submit a pull-request. 
+This translation is intended to be evolving, and if any errors are detected in either the content or the translation please get in touch or submit a pull-request. When writing to suggest an improvement, please include evidence if appropriate to indicate why the suggested edit is more correct. 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
